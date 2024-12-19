@@ -15,8 +15,13 @@
     },
 
     'data': [
+        'security/ir.model.access.csv',
+        'views/odoo_school_library_menu.xml',
+        'views/odoo_school_library_book_views.xml',
     ],
     'demo': [
+        'demo/res_partner_demo.xml',
+        'demo/odoo.school.library.book.csv',
     ],
 
     'installable': True,
