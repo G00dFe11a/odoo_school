@@ -1,0 +1,16 @@
+<odoo noupdate="1">
+    <record id="hrh_disease_1" model="hr.hospital.disease">
+        <field name="name">Cold</field>
+        <field name="description">Cold</field>
+    </record>
+
+    <record id="hrh_disease_2" model="hr.hospital.disease">
+        <field name="name">Gastritis</field>
+        <field name="description">Gastritis</field>
+    </record>
+
+    <record id="hrh_disease_3" model="hr.hospital.disease">
+        <field name="name">Cancer</field>
+        <field name="description">Cancer</field>
+    </record>
+</odoo>

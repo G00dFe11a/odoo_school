@@ -21,6 +21,7 @@
         'views/hr_hospital_patient_views.xml',
         'views/hr_hospital_disease_views.xml',
         'views/hr_hospital_appointment_views.xml',
+        'demo/hr.hospital.disease.xml'
 
     ],
     'demo': [
